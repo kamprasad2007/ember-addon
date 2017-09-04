@@ -1,5 +1,7 @@
 # Ember-cli-wat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kamprasad2007/ember-addon.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
